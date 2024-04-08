@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I no longer drink coffee ☕️ while sometimes missing it
 - 🤔 I know more than most about: 🐮, 🥛, 🐓, 🥚, 🌱, [Regenerative Agriculture](https://www.alexandrefamilyfarm.com)
+- 866 likes given on Youtube🔺
 
 <!---
 dl-alexandre/dl-alexandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
