@@ -6,9 +6,21 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I no longer drink coffee ☕️ while sometimes missing it
 - 🤔 I know more than most about: 🐮, 🥛, 🐓, 🥚, 🌱, [Regenerative Agriculture](https://www.alexandrefamilyfarm.com)
-- 876 likes given on Youtube🔺
+- 928 likes given on Youtube🔺
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white" />
+    <img src="https://img.shields.io/badge/-swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+    <a href="https://twitter.com/d_creatio">
+        <img src="https://img.shields.io/badge/Contact-@d_creatio-95a5a6.svg?style=flat" alt="Twitter: @d_creatio" />
+    </a>
+</p>
 
 <!---
 dl-alexandre/dl-alexandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+Simple Icons Resource: https://simpleicons.org/
 --->
