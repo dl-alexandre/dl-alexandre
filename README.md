@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on quality software
 - 📫 How to reach me [email](mailto:dalton@alexandrefamilyfarm.com) or visit [site](https://daltonalexandre.carrd.co)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I no longer drink coffee ☕️ while sometimes missing it
+- ⚡ Fun fact: I have a [tutorial](https://github.com/dl-alexandre/dl-alexandre.github.io/blob/main/verbage/numbering_pushups.md)
 - 🤔 I know more than most about: 🐮, 🥛, 🐓, 🥚, 🌱, [Regenerative Agriculture](https://www.alexandrefamilyfarm.com)
 - 1101 likes given on Youtube🔺
 
