@@ -5,8 +5,9 @@
 - 📫 How to reach me [email](mailto:dalton@alexandrefamilyfarm.com) or visit [site](https://daltonalexandre.carrd.co)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a [tutorial](https://github.com/dl-alexandre/dl-alexandre.github.io/blob/main/verbage/numbering_pushups.md) and [another](https://github.com/dl-alexandre/dl-alexandre.github.io/blob/main/verbage/distanced_peak.md)
+- 🖥️ Let me build you [something](https://dl-alexandre.github.io/agrxculture)
 - 🤔 I know more than most about: 🐮, 🥛, 🐓, 🥚, 🌱, [Regenerative Agriculture](https://www.alexandrefamilyfarm.com)
-- 1144 likes given on Youtube🔺
+- 1372 likes given on Youtube🔺
 
 <p align="center">
     <a href="https://developer.apple.com/xcode/">
